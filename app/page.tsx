@@ -1,26 +1,7 @@
+import { articles } from "@/app/data/articles";
 import Image from "next/image";
 export default function Home() {
-const articles = [
-  {
-    image: "/images/espagne.jpg",
-    titre: "L'Espagne couronnée sur le toit du football",
-    description: "La Roja réalise le doublé Euro/Mondial.",
-  },
-
-  {
-    image: "/images/rodri.jpg",
-    titre: "Rodri meilleur joueur de la Coupe du monde",
-    description: "Le milieu de Manchester City principal artisan du sacre de sa nation",
-  },
-
-  {
-    image: "/images/olise.jpg",
-    titre: "Le mercato européen s'accélère",
-    description: "Les clubs préparent leurs prochaines recrues.",
-  },
-];
-
-  return (
+ return (
 <main className="min-h-screen max-w-7xl mx-auto px-6 lg:px-10 py-8">
 
       {/* Grande actualité */}

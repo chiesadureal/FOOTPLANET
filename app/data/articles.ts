@@ -6,7 +6,7 @@ export const articles = [
     date: "21 juillet 2026",
     titre: "L'Espagne couronnée sur le toit du football",
     description:
-    "La roja retrouve les sommets grâce à une génération de jeunes exceptionnelle",
+      "La Roja confirme son retour parmi les grandes nations du football mondial.",
     contenu: [
       "La sélection espagnole continue d'écrire son histoire.",
       "La Roja confirme son retour parmi les grandes nations du football mondial.",
@@ -20,8 +20,8 @@ export const articles = [
     categorie: "ESPAGNE",
     date: "21 juillet 2026",
     titre: "Rodri a été très impressionnant dans cette Coupe du monde",
-     description:
-      "Le milieu espagnol a dominé le tournoi et a été élu meilleur joueur.",
+    description:
+      "Le milieu espagnol réalise des performances remarquables pendant la compétition.",
     contenu: [
       "Le milieu de Manchester City réalise des performances remarquables.",
       "Son impact a été évident tout au long de la compétition.",
@@ -36,7 +36,7 @@ export const articles = [
     date: "20 juillet 2026",
     titre: "Le mercato européen s'accélère",
     description:
-      "Les grands clubs préparent déjà leurs prochains transferts pour renforcer leurs effectifs.",
+      "Les grands clubs préparent leurs prochaines recrues pour la saison à venir.",
     contenu: [
       "Les grands clubs préparent leurs prochaines recrues.",
       "Plusieurs stars pourraient changer de club cet été.",
