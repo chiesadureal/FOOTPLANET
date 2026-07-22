@@ -1,4 +1,5 @@
 import "./globals.css";
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata = {
   title: "FootPlanet",
@@ -33,6 +34,8 @@ export default function RootLayout({
         <footer className="mt-20 text-center py-10 bg-black">
           © 2026 FootPlanet - Actualités Football
         </footer>
+
+        <Analytics />
 
       </body>
     </html>
